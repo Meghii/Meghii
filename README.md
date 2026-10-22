@@ -6,6 +6,11 @@ I'm building a career in data analytics. I hold a Master of Computer Application
 
 Before moving into data, I spent about six years in operations and customer care, managing, tracking and reporting large volumes of business data — so I understand the business questions behind the numbers.
 
+## Featured projects
+
+- **[Titanic — Exploratory Data Analysis](https://github.com/Meghii/data-analysis-eda)** — an end-to-end EDA in Python: cleaning, exploring and visualising what drove survival on the Titanic.
+- **[Chinook Music Store — SQL Business Analysis](https://github.com/Meghii/sql-business-analysis)** — answering real business questions with SQL, using multi-table joins, grouping and aggregation.
+
 ## Skills
 
 - **Languages / query:** Python, SQL
@@ -16,8 +21,8 @@ Before moving into data, I spent about six years in operations and customer care
 
 ## Currently working on
 
-- Machine Learning (in progress)
-- Building my first data-analysis projects — these will appear on this profile soon
+- Artificial Intelligence & Machine Learning (in progress)
+- Building out my data-analytics portfolio
 
 ## Connect
 
